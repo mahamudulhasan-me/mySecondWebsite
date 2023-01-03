@@ -1,0 +1,62 @@
+/* About section CSS Start */
+.about {
+  text-align: center;
+  padding: 80px 0px;
+}
+.about-info {
+  width: 70%;
+  margin: 0 auto;
+  padding: 20px 10px;
+  margin-bottom: 15px;
+}
+.services {
+  width: 100%;
+}
+.service-box {
+  width: 23%;
+  float: left;
+}
+
+/* Portfolio CSS Start */
+.portfolio {
+  text-align: center;
+  padding: 80px 0px;
+}
+.portfolio-title {
+  margin-bottom: 40px;
+}
+.portfolio .img img {
+  width: 30%;
+  padding: 5px;
+}
+
+/* Footer CSS Start */
+.footer {
+  padding-bottom: 40px;
+  height: 300px;
+}
+.connect {
+  width: 50%;
+  float: left;
+}
+.connect .text {
+  margin-bottom: 20px;
+}
+.connect .text h2 {
+  margin-bottom: 20px;
+}
+.connect .icon img {
+  width: 20px;
+  height: 20px;
+  padding-right: 10px;
+}
+.message {
+  width: 50%;
+  float: left;
+}
+.message h2 {
+  margin-bottom: 20px;
+}
+.message input {
+  margin-bottom: 10px;
+}
