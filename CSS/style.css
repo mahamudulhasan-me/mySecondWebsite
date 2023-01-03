@@ -1,0 +1,58 @@
+.banner {
+  background-image: url("../Images/banner-bg.jpg");
+  width: 100%;
+  position: relative;
+  height: 300px;
+  padding-top: 80px;
+  background-size: cover;
+  background-color: #f5fafd;
+  background-blend-mode: color;
+}
+.name-info {
+  width: 40%;
+  float: left;
+  padding-left: 100px;
+}
+.title {
+  padding-top: 50px;
+  line-height: 30px;
+}
+.title section {
+  line-height: normal;
+  padding-top: 10px;
+}
+.image {
+  width: 50%;
+  float: right;
+}
+.banner .image img {
+  width: 300px;
+  position: absolute;
+  right: 5%;
+  top: 25%;
+  float: left;
+}
+.btn-section {
+  padding-top: 20px;
+}
+.btn-section a {
+  text-decoration: none;
+  color: #f5fafd;
+  font-weight: 600;
+}
+.btn-1 {
+  padding: 10px;
+  background-color: #ffa500;
+  border: 1px solid #e2980d;
+  color: #e2980d;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+.btn-2 {
+  padding: 10px 20px;
+  border: 1px solid #e2980d;
+  border-radius: 5px;
+}
+.btn-2 a {
+  color: #e2980d;
+}
